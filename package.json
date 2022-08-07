@@ -1,7 +1,4 @@
 {
-  "dependencies": {
-    "create-react-app": "5.0.1"
-  },
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0"
   },
